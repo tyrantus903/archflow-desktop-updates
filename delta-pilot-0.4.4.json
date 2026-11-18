@@ -1,0 +1,13 @@
+{
+  "version": "0.4.4",
+  "archflowChannel": "pilot",
+  "notes": "# ArchFlow Desktop 0.4.4\n\nCole imagens diretamente na área do logotipo, nas referências do briefing, na biblioteca de documentos e no Estúdio de Imagens. Se preferir, continue usando o seletor de arquivos.\n\nO escritório aceita logotipos maiores e mostra a prévia antes de salvar. Marcas transparentes claras ganham um fundo de contraste no aplicativo e nos PDFs. CPF, CNPJ e telefones brasileiros passam a ter formatação nos cadastros, consultas e documentos.\n",
+  "pub_date": "2026-11-18T11:16:29.044Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/tyrantus903/archflow-desktop-updates/releases/download/delta-pilot-v0.4.3-to-v0.4.4/ArchFlow-pilot_0.4.3-0.4.4.afdelta",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaTdqdUdGUER0a2VtYy83cVh2M1E2SzZLWlVhY3pyNmRYd3VLRjE2RDNlSkpUaXF1Vk1DL2dZaDVZQTFlVG9wQUcvd05Sb1A2Zld4bXh0TGJ5Ym5pQ0V5V0JVZUpqUUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAwNTg4CWZpbGU6QXJjaEZsb3ctcGlsb3RfMC40LjMtMC40LjQuYWZkZWx0YQl2ZXJzaW9uOjAuNC40Cko3cWxKb1RXMHBkOW44T09JL2pBdktnQkpvRUhxRVBQWGF6MFU1RXBUNnh0SDVKNDIyaUNWNlFUWFE1NXFlL3VhaFNUTU5aeVAvdE42U2NiVzJ1eEJ3PT0K"
+    }
+  },
+  "archflowDeltaFrom": "0.4.3"
+}
