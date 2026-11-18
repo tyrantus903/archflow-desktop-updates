@@ -1,0 +1,13 @@
+{
+  "version": "0.4.5",
+  "archflowChannel": "pilot",
+  "notes": "# ArchFlow Desktop 0.4.5\n\n- O briefing passa a gravar novas imagens somente ao salvar. Cancelar descarta as imagens do rascunho.\n- A nova cópia criptografada suporta 4 GiB de documentos e mostra a ocupação do acervo. Backups anteriores continuam legíveis. Para abrir uma cópia nova em outro computador, use o ArchFlow 0.4.5 ou posterior.\n- A verificação automática preserva a atualização já encontrada ou baixada. As cópias preventivas são verificadas antes de receberem o nome final.\n- A biblioteca, a pesquisa financeira e a abertura do aplicativo fazem menos trabalho. A exportação de PDFs continua funcionando offline.\n",
+  "pub_date": "2026-11-18T15:42:10.419Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/tyrantus903/archflow-desktop-updates/releases/download/delta-pilot-v0.4.4-to-v0.4.5/ArchFlow-pilot_0.4.4-0.4.5.afdelta",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaTdqdUdGUER0a2VCYXRKRXNjZU85NmhwcHk1dHFjOUkwd1VxK2xsNGRNVnVKU3pmYk01MFQ0cis2OXhSVU1TSWYyemR6czZpU1BUZjFZRG9tMWw3QytndDRDQncvS1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDE2NTMwCWZpbGU6QXJjaEZsb3ctcGlsb3RfMC40LjQtMC40LjUuYWZkZWx0YQl2ZXJzaW9uOjAuNC41ClE4aUZ2R0MrYzA2Q1lkeTFFMkpLSldPK3hhOHMrb3dRcDArYVp4RVlTK3JmdEE3TGp1ZCtSSnQ2LzlMdER0UVNnTC90S3dRSERwZlNSN1NNeHBCUkNBPT0K"
+    }
+  },
+  "archflowDeltaFrom": "0.4.4"
+}
