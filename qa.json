@@ -1,0 +1,12 @@
+{
+  "version": "0.4.4",
+  "archflowChannel": "qa",
+  "notes": "Versão exclusiva de QA para validar a atualização automática do ArchFlow sobre a versão 0.4.3 no Windows. O ensaio verifica o aviso de nova versão, o consentimento, a assinatura do instalador, a recuperação preventiva e a preservação dos dados após a reabertura.\n",
+  "pub_date": "2026-11-18T03:15:32.361Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/tyrantus903/archflow-desktop-updates/releases/download/qa-v0.4.4/ArchFlow-QA_0.4.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE9YN0hGd2pyWmErOVhxQVN1MXZwT0hjQTY0SXpaeGRyTnlreTdVdFJtOEZzaVZsR0QrUGdVWHQxeXprZ3kwN013VmtWMVprWU5TbXVZNWZ1Z2lSUzJvaS83b002OEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTcxNzMxCWZpbGU6QXJjaEZsb3cgVXBkYXRlciBRQV8wLjQuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjQKWGtzNElJSWFscDBGbitTUVlDenRUQ1hkVUxZSkdGajN0WGJlSnJ2SGtra1BVMHllNVY4L0xBc3lDZEFFUERPMGk5bUR1ZGxrOWdiNVZaUSt0UjM4QVE9PQo="
+    }
+  }
+}
