@@ -1,0 +1,13 @@
+{
+  "version": "0.4.4",
+  "archflowChannel": "qa",
+  "notes": "# ArchFlow 0.4.4 · teste de atualização diferencial\n\nEsta versão de QA valida o download das diferenças a partir da edição de transição 0.4.3. O aplicativo confere a base instalada e as assinaturas antes de pedir confirmação para instalar. Após o reinício, confira a versão, os projetos e a licença no perfil de testes.\n",
+  "pub_date": "2026-11-18T10:24:04.627Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "url": "https://github.com/tyrantus903/archflow-desktop-updates/releases/download/delta-qa-v0.4.3-to-v0.4.4/ArchFlow-qa_0.4.3-0.4.4.afdelta",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRE9YN0hGd2pyWlZPTENhcnErVjdTaE5iWUs0NC83UFBPWENIVnJjZjBFd2dVYWFFT3F1TGRBdW5pUGU1YXdpYzAyOWpBdE9kbFIvVHBOd2NqQzBVVGxMTDJQV3hCTGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk3NDQ0CWZpbGU6QXJjaEZsb3ctcWFfMC40LjMtMC40LjQuYWZkZWx0YQl2ZXJzaW9uOjAuNC40CklWNjJHRTZ2eUJyZUVCSmRSV3krcTN6TERKVzVRVmlxcnlXVmxWSUthTTBtMFlMQklrRVNtTU9CTVgwSlZxcjRIT2tZSXR3LytObWRINUQ4eGJlWUFBPT0K"
+    }
+  },
+  "archflowDeltaFrom": "0.4.3"
+}
